@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Include="Core\Utils\ImageError.png" />
+      <EmbeddedResource Include="Core\Utils\ImageLoad.png" />
+    </ItemGroup>
+
+</Project>
